@@ -110,6 +110,6 @@
     "exclude"
   ],
   "include": [
-    "ES6"
+    "classes"
   ]
 }
