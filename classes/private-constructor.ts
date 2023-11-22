@@ -21,13 +21,13 @@
         }
     }
 
-    const apocalipsis1 = Apocalipsis.callApocalipsis();
-    const apocalipsis2 = Apocalipsis.callApocalipsis();
-    const apocalipsis3 = Apocalipsis.callApocalipsis();
+    // const apocalipsis1 = Apocalipsis.callApocalipsis();
+    // const apocalipsis2 = Apocalipsis.callApocalipsis();
+    // const apocalipsis3 = Apocalipsis.callApocalipsis();
 
-    apocalipsis1.chmgeName('Xavier');
+    // apocalipsis1.chmgeName('Xavier');
     
 
-    console.log(apocalipsis1, apocalipsis2, apocalipsis3);
+    // console.log(apocalipsis1, apocalipsis2, apocalipsis3);
 
 })()
